@@ -53,23 +53,14 @@ http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__
 方法3（圈X配置文件填入rewrite_local）
 ```
 http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/___DL.json url 302 https://raw.githubusercontent.com/Sakuzy0/TemplateStock/master/___DLorg.json
-
 http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/Scene.pck url 302 https://raw.githubusercontent.com/Sakuzy0/TemplateStock/master/SceneOrg.pck
-
 http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/Scene.pck.hash url 302 https://raw.githubusercontent.com/Sakuzy0/TemplateStock/master/SceneOrg.pck.hash
-
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/___DLorg.json url 302 https://raw.githubusercontent.com/Sakuzy0/TemplateStock/master/___DL.json
-
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/Scene.pck url 302 https://raw.githubusercontent.com/Sakuzy0/TemplateStock/master/Scene.pck
-
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/Scene.pck.hash url 302 https://raw.githubusercontent.com/Sakuzy0/TemplateStock/master/Scene.pck.hash
-
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__dat_patch_000.pck url 302 https://raw.githubusercontent.com/Sakuzy0/TemplateStock/master/__dat_patch_000.pck
-
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__dat_patch_000.pck.hash url 302 https://raw.githubusercontent.com/Sakuzy0/TemplateStock/master/__dat_patch_000.pck.hash
-
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__g00_patch_004.pck url 302 https://raw.githubusercontent.com/Sakuzy0/TemplateStock/master/__g00_patch_004.pck
-
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__g00_patch_004.pck.hash url 302 https://raw.githubusercontent.com/Sakuzy0/TemplateStock/master/__g00_patch_004.pck.hash
 ```
 
