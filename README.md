@@ -51,6 +51,7 @@ http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__g00_patch_004.pck.hash https://raw.githubusercontent.com/yanhua0518/TemplateStock/master/__g00_patch_004.pck.hash 302  
 ```
 方法3（圈X配置文件填入rewrite_local）
+```
 http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/___DL.json url 302 https://raw.githubusercontent.com/Sakuzy0/TemplateStock/master/___DLorg.json
 
 http://cdn.anigema.jp/anigema/gamedata/agp0154.kn.summerpockets.contents.ios/Scene.pck url 302 https://raw.githubusercontent.com/Sakuzy0/TemplateStock/master/SceneOrg.pck
@@ -70,6 +71,7 @@ http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__g00_patch_004.pck url 302 https://raw.githubusercontent.com/Sakuzy0/TemplateStock/master/__g00_patch_004.pck
 
 http://cdn.anigema.jp/anigema/gamedata/agp0169.kn.summerpocketsrb.contents.rb/__g00_patch_004.pck.hash url 302 https://raw.githubusercontent.com/Sakuzy0/TemplateStock/master/__g00_patch_004.pck.hash
+```
 
 之后启动游戏下载数据。  
 **注意：**
